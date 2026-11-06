@@ -1,0 +1,5 @@
+git = local tool , github = cloud hoating
+TCP/IP = transmission controle protocol / internet protocol
+UDP = user datagram protocol
+DNS = domain name system
+DHCP = dynamic host configuration protocol
