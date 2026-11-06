@@ -1,0 +1,4 @@
+1 Use branches and pull requests
+2 Write clear commit messages
+3 Secure your account
+4 Leverage GitHub’s organizational features
